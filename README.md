@@ -77,19 +77,19 @@ of machine learning. I'm committed to applying my knowledge and skills to enhanc
 
 
 ## Connect with me  
-<a href="https://github.com/https://github.com/sanphetx" target="_blank">
+<a href="https://github.com/sanphetx" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.kaggle.com/https://www.kaggle.com/sanphetsaefang" target="_blank">
+<a href="https://www.kaggle.com/sanphetsaefang" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/https://web.facebook.com/SanphetEx/" target="_blank">
+<a href="https://www.facebook.com/SanphetEx" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/sanphet.x/" target="_blank">
+<a href="https://instagram.com/sanphet.x" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/@ex1656" target="_blank">
+<a href="https://www.youtube.com/user/@ex1656" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
   
