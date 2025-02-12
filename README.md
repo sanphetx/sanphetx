@@ -94,30 +94,30 @@ of machine learning. I'm committed to applying my knowledge and skills to enhanc
 </a>  
   
 
-<br/>  
+//<br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sanphetx&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+//## Github Stats  
+//<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sanphetx&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+//<br/>  
 
 
-## Recent Blog Posts  
+//## Recent Blog Posts  
   
 
-<br/>  
+//<br/>  
 
-<div align="center"><img src="" /></div>  
+//<div align="center"><img src="" /></div>  
 
-<br/>  
+//<br/>  
 
   
 
-<br/>  
+//<br/>  
 
 
-<br />
+//<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+//----
+//<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
